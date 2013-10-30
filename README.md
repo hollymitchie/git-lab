@@ -1,12 +1,12 @@
 Alice:
-Holly Mitchell
-hmitchel@usc.edu
-hollymitchie
+ + Holly Mitchell
+ + hmitchel@usc.edu
+ + hollymitchie
 
 Bob:
-Rebecca Hao
-rhao@usc.edu
-rhao
+ + Rebecca Hao
+ + rhao@usc.edu
+ + rhao
 
 Tuesday 6-8PM
 
