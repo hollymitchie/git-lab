@@ -1,4 +1,14 @@
-git-lab
-=======
+Alice:
+Holly Mitchell
+hmitchel@usc.edu
+hollymitchie
 
-CSCI 201 - Lab 10 with Holly &amp;&amp; Rebecca
+Bob:
+Rebecca Hao
+rhao@usc.edu
+rhao
+
+Tuesday 6-8PM
+
+![](http://octodex.github.com/images/ironcat.jpg)
+
